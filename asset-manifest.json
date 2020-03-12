@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reddit-coronavirus-news/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reddit-coronavirus-news/static/js/main.06930104.chunk.js",
+    "main.js.map": "/reddit-coronavirus-news/static/js/main.06930104.chunk.js.map",
+    "runtime-main.js": "/reddit-coronavirus-news/static/js/runtime-main.d59f3ac3.js",
+    "runtime-main.js.map": "/reddit-coronavirus-news/static/js/runtime-main.d59f3ac3.js.map",
+    "static/js/2.37229195.chunk.js": "/reddit-coronavirus-news/static/js/2.37229195.chunk.js",
+    "static/js/2.37229195.chunk.js.map": "/reddit-coronavirus-news/static/js/2.37229195.chunk.js.map",
+    "index.html": "/reddit-coronavirus-news/index.html",
+    "precache-manifest.70c198e87e7c374a38c73ab8b78bfd55.js": "/reddit-coronavirus-news/precache-manifest.70c198e87e7c374a38c73ab8b78bfd55.js",
+    "service-worker.js": "/reddit-coronavirus-news/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reddit-coronavirus-news/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.37229195.chunk.js.LICENSE.txt": "/reddit-coronavirus-news/static/js/2.37229195.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reddit-coronavirus-news/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d59f3ac3.js",
+    "static/js/2.37229195.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.06930104.chunk.js"
+  ]
+}
